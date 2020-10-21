@@ -61,6 +61,23 @@ export const MIL_TO_DEG_FACTOR = 360.0 / 6283.1853;
 export const NATO_MIL_TO_DEG_FACTOR = 360 / 6400;
 export const MAX_SUBTARGETS_COUNT = 49;
 
+export const RANGE_100 = 100;
+export const RANGE_150 = 150;
+export const RANGE_200 = 200;
+export const RANGE_250 = 250;
+export const RANGE_300 = 300;
+export const RANGE_350 = 350;
+export const RANGE_400 = 400;
+export const RANGE_450 = 450;
+export const RANGE_500 = 500;
+export const RANGE_550 = 550;
+export const RANGE_600 = 600;
+export const RANGE_650 = 650;
+export const RANGE_700 = 700;
+export const RANGE_750 = 750;
+export const RANGE_800 = 800;
+
+
 /**
  * @enum {number}
  */
